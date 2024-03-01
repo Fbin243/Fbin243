@@ -1,6 +1,8 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">A third-year student of IT Faculty at HCMUS.</h3>
 <p align="left">
   <img
