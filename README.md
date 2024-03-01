@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Fbin&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Fbin;Nice to meet you!)](https://git.io/typing-svg)
 <h3 align="center">A third-year student of IT Faculty at HCMUS.</h3>
 <p align="left">
   <img
