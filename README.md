@@ -42,8 +42,6 @@
 
 </p>
 
-![snake_gif]
-
 ### Language and tools:
 
   <div align="left">
