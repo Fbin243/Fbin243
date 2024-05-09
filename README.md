@@ -45,10 +45,10 @@
 ### Tech stack:
 
   <div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo"  />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=red" height="30" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Python-00599C?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" height="30" alt="ms-sql-server logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 </div>
 
