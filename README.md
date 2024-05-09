@@ -19,7 +19,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Flutter, Android Kotlin for App development.**
+- 🌱 I’m currently learning **Java for Back-end development.**
 
 - 📫 How to reach me **ntbinh243.dev@gmail.com**
 
@@ -37,10 +37,7 @@
   <a href="https://www.facebook.com/ntbinh243">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-
 </div>
-
-</p>
 
 ### Tech stack:
 
