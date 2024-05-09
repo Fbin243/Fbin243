@@ -42,7 +42,7 @@
 
 </p>
 
-### Language and tools:
+### Tech stack:
 
   <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo"  />
