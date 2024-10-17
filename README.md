@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">A fourth-year student of IT Faculty at HCMUS.</h3>
+<h3 align="center">A fourth-year student of FIT at HCMUS.</h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=fbin243&label=Profile%20views&color=0e75b6&style=flat"
