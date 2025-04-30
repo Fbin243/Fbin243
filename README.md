@@ -48,8 +48,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fbin243&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&show_icons=true&hide_border=true&theme=dracula&layout=compact" height="150"  alt="Most used programming languages" />
-</div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbin243&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbin243&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&show_icons=true&hide_border=true&theme=dracula&layout=compact" alt="Most used programming languages" />
+
+
