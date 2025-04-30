@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Glad to see you here!" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">A fourth-year student of FIT at HCMUS.</h3>
+<h3 align="center">A final-year student of FIT at HCMUS.</h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=fbin243&label=Profile%20views&color=0e75b6&style=flat"
@@ -49,6 +49,6 @@
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbin243&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&show_icons=true&hide_border=true&theme=dracula&layout=compact" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
 
