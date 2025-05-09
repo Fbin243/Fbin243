@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Nice+to+meet+you%2C+guys+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fbin.;Glad+to+see+you+here+!" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">A final-year student of FIT at HCMUS.</h3>
@@ -19,9 +19,11 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Java and Golang for Back-end development.**
+- 🌱 I'm currently learning **Java and Golang for Back-end development.**
 - 📫 How to reach me **ntbinh243.dev@gmail.com.**
-- 🥰 Fun fact: **"I can't make something best, but I can make it better."**
+- 👨🏻‍💻 My Leetcode: **[fbin243](https://leetcode.com/fbin243/)**
+- 💬 My Discord: **_fbin**
+- 🥰 Favorite Quote: *"The best way to predict the future is to create it."* - Abraham Lincoln
 
 ### Connect with me:
 
@@ -40,12 +42,12 @@
 ### Programming Languages:
 
 <div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Golang-69D8E5?logo=go&logoColor=black&style=for-the-badge" height="30" alt="golang logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=red" height="30" alt="java logo"  />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
-  <img src="https://img.shields.io/badge/Golang-69D8E5?logo=go&logoColor=black&style=for-the-badge" height="30" alt="golang logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbin243&theme=github_dark" />
