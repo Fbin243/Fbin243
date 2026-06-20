@@ -11,14 +11,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=fbin243"
-      alt="fbin243"
-  /></a>
-</p>
-
 - 🌱 I'm currently learning **Java and Golang for Back-end development.**
 - 📫 How to reach me **ntbinh243.dev@gmail.com.**
 - 👨🏻‍💻 My Leetcode: **[fbin243](https://leetcode.com/fbin243/)**
