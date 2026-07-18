@@ -43,6 +43,6 @@
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbin243&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbin243&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" /> -->
 
 
